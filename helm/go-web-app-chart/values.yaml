@@ -8,7 +8,7 @@ image:
   repository: arham7/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10200661553"
+  tag: "10200736207"
 
 ingress:
   enabled: false
